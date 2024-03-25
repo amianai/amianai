@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amianai, am i an ai?
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning everything that concern UI/UX interface 
-- 💞️ I’m looking to collaborate on i'm trying to figure it out
+- 💞️ I’m looking to collaborate with people
 - 📫 How to reach me marco.gaudah@gmail.com
 
 <!---
