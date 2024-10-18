@@ -1,5 +1,5 @@
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning everything that concern UI/UX interface 
+- 🌱 I’m currently learning everything that concern UI/UX interface, design processes, and computational neuroscience.
 - 💞️ I’m looking to collaborate with people
 - 📫 How to reach me marco.gaudah@gmail.com
 
